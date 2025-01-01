@@ -1,0 +1,1 @@
+This repository demonstrates an example of an out-of-bounds memory access bug in assembly language and its solution. The bug occurs when the program attempts to access memory beyond the allocated array bounds, potentially leading to crashes or incorrect results. The solution shows how to add boundary checks to prevent this type of error.
